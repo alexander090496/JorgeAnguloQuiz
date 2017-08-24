@@ -13,12 +13,4 @@ public class MainP2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main_p2);
     }
 
-    public void irActividaduno(View vista){
-
-        Intent intent2 = new Intent(this, MainActivity.class);
-        startActivity(intent2);
-
-
-
-    }
 }

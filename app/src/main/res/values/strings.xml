@@ -5,4 +5,17 @@
     <string name="t2">IOs Game/Marking of concept</string>
     <string name="t3">Game Desing, Ilustration IOs fiere arts,Digital art</string>
     <string name="primer1">24k</string>
+    <string name="usuario">USUARIO</string>
+    <string name="CONTRASEÑA">CONTRASEÑA</string>
+    <string name="string_btn2">ACEPTAR</string>
+    <string name="string_btn3">Mostrar Opciones</string>
+    <string name="str_menu">Opcion1</string>
+    <string name="str_con">Opcion2</string>
+
+    <style name="Mystyle" parent="Theme.AppCompat">
+        <item name="android:textColorHint">#7cb342</item>
+        <item name="android:textSize">20sp</item>
+
+
+    </style>
 </resources>
